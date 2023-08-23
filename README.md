@@ -65,3 +65,8 @@ The application includes several utility functions used for data analysis:
 2. The application will display statistical analysis tables for flavonoids and gamma values based on the provided JSON data.
 3. Explore the tables to see the calculated mean, median, and mode for different alcohol groups.
 
+##  `FlavanoidsTable and GammaTable`
+
+![Capture](https://github.com/webwonderscape/Wine-Data-Set/assets/141607240/7fd84671-a636-4d46-9bc5-2a8ceab9cc3f)
+
+
