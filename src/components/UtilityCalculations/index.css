@@ -1,0 +1,21 @@
+table, tr, td, th
+{
+    color: blue;
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
+
+.conatiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+}
+.bg-conatiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    height: 100vh;
+}
