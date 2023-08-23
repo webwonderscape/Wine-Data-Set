@@ -67,6 +67,5 @@ The application includes several utility functions used for data analysis:
 
 ##  `FlavanoidsTable and GammaTable`
 
-![Capture](https://github.com/webwonderscape/Wine-Data-Set/assets/141607240/7fd84671-a636-4d46-9bc5-2a8ceab9cc3f)
-
+![Capture](https://github.com/webwonderscape/Wine-Data-Set/assets/141607240/87aaa66c-770c-4bcf-990b-3fa9e60b8e36)
 
